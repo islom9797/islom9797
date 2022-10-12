@@ -26,7 +26,8 @@ Based in Seoul, ***South Korea***  <img src="https://cdn-icons-png.flaticon.com/
 -  Fun fact: I love **`long distance running and cycling`**;
 -  Reach me: **`rixsiyevvv@gmail.com`**;
 - <a href="https://play.google.com/store/apps/details?id=com.hamkorbank.mobile&hl=ru&gl=US">**`Hamkor`** - First real production project of Bank </a>
-
+- <a href="https://play.google.com/store/apps/details?id=com.fourlab.lostBall">**`Lostball`** -My second Flutter app based AI and can recognize ball for golf player in golf zone </a>
+- <a href="https://play.google.com/store/apps/details?id=com.sample.edgedetectionexample">**`SuperDoc`** -My third Flutter app based OCR and can recognize text </a>
 ##
 **Languages I use:**
 <br>
