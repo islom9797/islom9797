@@ -35,7 +35,7 @@ Based in Seoul, ***South Korea***  <img src="https://cdn-icons-png.flaticon.com/
 - <a href="https://play.google.com/store/apps/details?id=kr.co.kodc.dadonda">**`다돈다`** -시설 & 순찰 관리 시스템 </a>
 - <a href="https://play.google.com/store/apps/details?id=com.wooridoctor.woodocapp">**`마음편해`** -Psychological counseling app </a>
 - <a href="https://play.google.com/store/apps/details?id=kr.co.kodc.momslifenew">**`데이로그`** -데이로그 </a>
-- - <a href="https://play.google.com/store/apps/details?id=com.wooridoctors.healthcheckhere">**`검진여기`** -검진 예약 시스템 </a>
+- <a href="https://play.google.com/store/apps/details?id=com.wooridoctors.healthcheckhere">**`검진여기`** -검진 예약 시스템 </a>
 ##
 **Languages I use:**
 <br>
