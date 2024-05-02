@@ -27,7 +27,15 @@ Based in Seoul, ***South Korea***  <img src="https://cdn-icons-png.flaticon.com/
 -  Reach me: **`rixsiyevvv@gmail.com`**;
 - <a href="https://play.google.com/store/apps/details?id=com.hamkorbank.mobile&hl=ru&gl=US">**`Hamkor`** - First real production project of Bank </a>
 - <a href="https://play.google.com/store/apps/details?id=com.fourlab.lostBall">**`Lostball`** -My second Flutter app based AI and can recognize ball for golf player in golf zone </a>
+- <a href="https://play.google.com/store/apps/details?id=com.kof.ficl_app">**`FICL Manager`** -양식장 앱 </a>
+- <a href="https://play.google.com/store/apps/details?id=com.gcgfuntact.mobile">**`Easy One`** -경기신용보증재단 앱 </a>
+- <a href="https://play.google.com/store/apps/details?id=com.anabada.app">**`아나바다`** -중고 가방 판매 앱 </a>
+- <a href="https://play.google.com/store/apps/details?id=com.resoinc.supershot">**`슈퍼샷`** -골프공 궤적추적기 - 슈퍼샷 </a>
 - <a href="https://play.google.com/store/apps/details?id=com.sample.edgedetectionexample">**`SuperDoc`** -My third Flutter app based OCR and can recognize text </a>
+- <a href="https://play.google.com/store/apps/details?id=kr.co.kodc.dadonda">**`다돈다`** -시설 & 순찰 관리 시스템 </a>
+- <a href="https://play.google.com/store/apps/details?id=com.wooridoctor.woodocapp">**`마음편해`** -Psychological counseling app </a>
+- <a href="https://play.google.com/store/apps/details?id=kr.co.kodc.momslifenew">**`데이로그`** -데이로그 </a>
+- - <a href="https://play.google.com/store/apps/details?id=com.wooridoctors.healthcheckhere">**`검진여기`** -검진 예약 시스템 </a>
 ##
 **Languages I use:**
 <br>
