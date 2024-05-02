@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=islom9797&style=flat-square)
 <br>
 <br>
-**Mobile Developer**, currently work at ***4-lab.com***.I have been working as Flutter Mobile Developer since October 2021.
+**Mobile Developer**, currently work at ***Inocoms***.I have been working as Flutter Mobile Developer since October 2021.
 <br>
 Based in Seoul, ***South Korea***  <img src="https://cdn-icons-png.flaticon.com/512/317/317314.png" width="25"/>.
 <br>
